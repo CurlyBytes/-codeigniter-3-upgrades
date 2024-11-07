@@ -6,7 +6,7 @@ services:
 
 
     webserver:
-        image: 'nginx:1.21.6-alpine'
+        image: 'nginx:1.27.2-alpine'
         working_dir: /application
         volumes:
             - '../public:/application/public'

@@ -5,7 +5,7 @@
 	"require": {
 		"php": "^7.4",
 		"codeigniter/framework": "3.1.*",
-		"app-insights-php/monolog-handler": "^0.2.3",
+		"app-insights-php/monolog-handler": "^0.3.0",
 		"nesbot/carbon": "^2.57"
 	},
 	"require-dev": {
